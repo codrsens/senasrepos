@@ -1,6 +1,6 @@
 
-public class WhatToDo {
+public class ShoppingCartPrinter {
 	
-	
+	String name;
 
 }
