@@ -1,2 +1,2 @@
-# projectsForCit
-For CIT 591 MCIT Class
+# firstProject
+For files on eclipse
